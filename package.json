@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "lil-gui": "^0.20.0",
-    "splatter-three": "git+https://${GITHUB_TOKEN}@github.com/splatter-app/splatter-three.git"
+    "splatter-three": "git+https://${GITHUB_TOKEN}@github.com/splatter-app/splatter-three.git",
     "three": "^0.176.0"
   },
   "devDependencies": {
@@ -11,4 +11,5 @@
     "build": "vite build"
   }
 }
+
 
