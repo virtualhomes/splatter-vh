@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "lil-gui": "^0.20.0",
+    "splatter-three": "github:splatter-app/splatter-three",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.4"
+  },
+  "scripts": {
+    "build": "vite build"
+  }
+}
